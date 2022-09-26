@@ -1,2 +1,2 @@
-# test-conflits
+# REMOTE
 gestion de configuration des conflits
